@@ -1,0 +1,4 @@
+baseURL = "http://theprakritik.store/"
+languageCode = "en-us"
+title = "The Prakritik Store"
+theme = "meghna-hugo"

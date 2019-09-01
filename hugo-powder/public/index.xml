@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>The Prakritik Store</title>
-    <link>http://theprakritik.store/</link>
+    <link>http://theprakritik.store/hugo-powder/public/</link>
     <description>Recent content on The Prakritik Store</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://theprakritik.store/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://theprakritik.store/hugo-powder/public/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

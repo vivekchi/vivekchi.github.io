@@ -3,15 +3,15 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://theprakritik.store/categories/</loc>
+    <loc>http://theprakritik.store/hugo-powder/public/categories/</loc>
   </url>
   
   <url>
-    <loc>http://theprakritik.store/tags/</loc>
+    <loc>http://theprakritik.store/hugo-powder/public/tags/</loc>
   </url>
   
   <url>
-    <loc>http://theprakritik.store/</loc>
+    <loc>http://theprakritik.store/hugo-powder/public/</loc>
   </url>
   
 </urlset>
